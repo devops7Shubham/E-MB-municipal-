@@ -1,0 +1,1 @@
+export { UniverEditor } from './UniverEditor';
